@@ -1,4 +1,4 @@
-# 📚 ThinkBoard — MERN App (MongoDB, Express, React, Node.js)
+# 📚 ThinkBoard — MERN (MongoDB, Express, React, Node.js)
 
 Aplicação **full‑stack MERN** para criar, listar, atualizar e excluir **notas** (título e conteúdo), com **rate limiting via Upstash Redis** e guia rápido de execução e deploy.
 
